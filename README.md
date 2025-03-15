@@ -2,7 +2,7 @@
 
 **proto** provides an agent protocol for the agent framework.
 
-## Example
+## Specification
 
 ```yaml
 name: "Assistant"
@@ -34,3 +34,12 @@ tools:
   - "function_tool"
   - "web_search"
 ```
+
+## Serialization
+
+```bash
+pip install -r requirements.txt
+python proto.py
+```
+
+## Reference
