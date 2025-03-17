@@ -6,6 +6,7 @@
 
 ```yaml
 name: "Assistant"
+
 instructions: |
   You are a helpful AI assistant. Answer user questions concisely and accurately.
 
